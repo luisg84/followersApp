@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Componente_15_1" width="237" height="76" data-name="Componente 15 – 1" viewBox="0 0 237 76">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2,.cls-5{fill:#558ed9}.cls-2{font-size:25px;font-family:Montserrat-SemiBold,Montserrat;font-weight:600}.cls-3{clip-path:url(#clip-path)}.cls-4{fill:#525252;font-size:46px;font-family:ArialRoundedMTBold,Arial Rounded MT Bold}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h237v54H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <text id="Followers" class="cls-2" transform="translate(57 70)">
+        <tspan x="0" y="0">Followers</tspan>
+    </text>
+    <g id="Logo" class="cls-3">
+        <text id="cleverbeat" class="cls-4" transform="translate(0 44)">
+            <tspan x="0" y="0">cleverbeat</tspan>
+        </text>
+        <circle id="Elipse_21" cx="3" cy="3" r="3" class="cls-5" data-name="Elipse 21" transform="translate(166.962 9.316)"/>
+        <circle id="Elipse_22" cx="3" cy="3" r="3" class="cls-5" data-name="Elipse 22" transform="translate(176.962 9.316)"/>
+        <circle id="Elipse_23" cx="3" cy="3" r="3" class="cls-5" data-name="Elipse 23" transform="translate(186.962 9.316)"/>
+        <circle id="Elipse_24" cx="3" cy="3" r="3" class="cls-5" data-name="Elipse 24" transform="translate(196.962 9.316)"/>
+    </g>
+</svg>
