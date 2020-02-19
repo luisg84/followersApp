@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:followers_app/src/componets/form_component.dart';
+import 'package:followers_app/src/Followers/ui/widgets/form_component.dart';
 
 class Register extends StatefulWidget {
   @override

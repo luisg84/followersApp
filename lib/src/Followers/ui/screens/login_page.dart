@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:followers_app/src/componets/bluebutton_component.dart';
-import 'package:followers_app/src/componets/input_component.dart';
-import 'package:followers_app/src/componets/input_mail_component.dart';
-import 'package:followers_app/src/componets/input_pass_component.dart';
+import 'package:followers_app/src/Followers/ui/widgets/bluebutton_component.dart';
+import 'package:followers_app/src/Followers/ui/widgets/input_component.dart';
+import 'package:followers_app/src/Followers/ui/widgets/input_mail_component.dart';
+import 'package:followers_app/src/Followers/ui/widgets/input_pass_component.dart';
 
 class LoginPage extends StatefulWidget {
   @override
